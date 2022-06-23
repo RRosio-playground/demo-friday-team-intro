@@ -1,7 +1,7 @@
 rise==5.7.1
 pyforest==1.1.0
 jupyter-resource-usage==0.6.1
-numpy==1.22.4
+numpy
 jupyterthemes==0.20.0
 nbgitpuller==1.1.0
 jupyter_contrib_nbextensions==0.5.1
